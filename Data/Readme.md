@@ -2,7 +2,7 @@
 
 - accuracy是评估的准确度统计
 
-- 两个图是accuracy的可视化图
+- 两个图是accuracy的可视化图(如果在report里没有显示出来的话)
 
 
 
