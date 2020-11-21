@@ -167,9 +167,9 @@ A(开始) -->B[将图片转为数组]
 
   
 
-![](../Data/mnist_accuracy.png)
+![如果显示不出来可以去../Data/mnist_accuracy.png](../Data/mnist_accuracy.png)
 
-![](../Data/cifar100_accuracy.png)
+![如果显示不出来可以去./Data/cifar100_accuracy.png](../Data/cifar100_accuracy.png)
 
 - 分析：
   - mnist
