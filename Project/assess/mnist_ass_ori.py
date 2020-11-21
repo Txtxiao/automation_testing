@@ -7,9 +7,11 @@ import tensorflow as tf
 # 数据集
 (X_train, y_train), (X_test, y_test) = mnist.load_data()  # 读取并划分MNIST训练集、测试集
 '''
+#用于1、2个模型
 X_train = X_train.reshape(len(X_train), -1)  # 二维变一维
 X_test = X_test.reshape(len(X_test), -1)
 '''
+#用于3~8个模型
 X_train = X_train.reshape(-1, 28, 28, 1)
 X_test = X_test.reshape(-1, 28, 28, 1)
 

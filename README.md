@@ -6,7 +6,6 @@ automation_testing
 
 ------
 
-```
 算法释义，所用第三方库及版本详见Report
 程序入口
 程序结构
@@ -23,5 +22,4 @@ Project
     |-- cifar100_transform.py 将数据集转化为图片
     |-- mnist_main.py mnist 生成测试数据集的方法
     |-- mnist_transform.py 将数据集转化为图片
-```
 
